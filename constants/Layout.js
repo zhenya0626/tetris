@@ -13,4 +13,6 @@ export default {
     width: 10,
     edgeLength: 30,
   },
+  minoAngle: ['angle0','angle90','angle180','angle270'],
+  minoName: ['I', 'O','S','Z','J','L','T'],
 };
